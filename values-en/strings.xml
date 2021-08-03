@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">BitirmeProjesi</string>
+    <string name="girisButonu">ENTER</string>
+    <string name="girisKontrol">Enter your ID and Password</string>
+    <string name="girisKontrol2">Wrong ID or Password</string>
+    <string name="girisKontrol3">Enter ID</string>
+    <string name="girisKontrol4">Enter Password</string>
+    <string name="girisKontrol5">Succesful</string>
+    <string name="kullaniciAdi">ID</string>
+    <string name="sifre">Password</string>
+    <string name="profil">Profile</string>
+    <string name="HotelBilgileri">Hotel Informations</string>
+    <string name="SiparisServis">Order Service</string>
+    <string name="OdaServis">Room Service</string>
+    <string name="Aktiviteler">Activities</string>
+    <string name="Harita"> Hotel Map</string>
+    <string name="yemek">Food</string>
+    <string name="icecek">Drink</string>
+    <string name="sepet">Chart</string>
+    <string name="eklendi"> added.</string>
+    <string name="zatenEklendi">This item is already added.</string>
+    <string name="notunuGir">Enter your note...</string>
+    <string name="onayla">Accept</string>
+    <string name="iptal">Cancel</string>
+    <string name="cabuk">Please it will be fast</string>
+    <string name="not">Note :</string>
+    <string name="odaNO">Room Number :</string>
+    <string name="siparisDurum">Order  Statu : </string>
+    <string name="siparisiptal">Will Order Cancel?</string>
+    <string name="evet">Yes</string>
+    <string name="iptaledildi">Cancelled.</string>
+    <string name="aktifsiparis">Order sent.</string>
+    <string name="bes">Max 5 item can be ordered.</string>
+    <string name="bir">Min 1 item can be ordered.</string>
+    <string name="silindi">Deleted</string>
+    <string name="SiparisGonder">Send Order</string>
+    <string name="Siparislerim">My Orders</string>
+    <string name="Servisler">Services</string>
+    <string name="gecersizsaat">Invalid Time</string>
+    <string name="istekzateniptal">Request is already cancelled.</string>
+    <string name="istekiptal">Request will cancel?</string>
+    <string name="gonder">Send</string>
+    <string name="saatgir">Enter the Time</string>
+    <string name="odaservisistegi">Wants to room service at:</string>
+    <string name="oncekiistekler">Previous Requests</string>
+    <string name="servisDurum">Service Statu : </string>
+    <string name="saatsec">Pick Hour</string>
+    <string name="Sepetbos">Cart is empty,add item to cart</string>
+    <string name="aktifistek">Request Send</string>
+    <string name="Tarihsec">Pick A Date</string>
+    <string name="ZiliCal">Ring The Bell</string>
+    <string name="selectHour">Select Hour...</string>
+    <string name="veriGirilmemiş">No Activity Yet</string>
+
+
+</resources>

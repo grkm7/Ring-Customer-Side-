@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/profil">
+        <menu>
+            <item android:id="@+id/profile2"
+                android:title="Görkem Aksoy" />
+        </menu>
+    </item>
+    <item  android:title="@string/HotelBilgileri">
+        <menu>
+            <item android:id="@+id/hotelAd"
+                android:title="Hilton Hotel"/>
+            <item android:id="@+id/departmentname"
+                android:title="Oda No: null"/>
+            <item android:id="@+id/id"
+                android:title="ID: 654305"/>
+
+        </menu>
+    </item>
+</menu>
